@@ -45,7 +45,7 @@ export default {
   padding-right: 24px;
   width: 609px;
   height: 268px;
-  background: #3A3A3A url('../assets/imgs/vector.png') no-repeat center;
+  background: #3A3A3A url('../assets/imgs/Vector.png') no-repeat center;
   border: 3px dashed rgba(130, 130, 130, 0.3);
   box-sizing: border-box;
   border-radius: 10px;
@@ -61,7 +61,6 @@ label {
 input {
   display: none;
 }
-
 
 label {
   background-color: #fff;
