@@ -4,7 +4,7 @@
     class="scumImg"
     width="80%"
     height="80%"
-    :src="require('../assets/imgs/desktop.png')"
+    :src="require('../assets/imgs/Desktop.png')"
   ></v-img>
 </template>
 
